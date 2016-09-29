@@ -1,3 +1,5 @@
 To compile type "make."
 
-The provided makefile is very rudimentary. You can improve it if you want.
+This is a simple 2D drawing program that can draw lines, filled triangles etc. (like a basic version of paint).
+Bresenham's algorithm for line drawing, floodfill etc are implemented.
+You can change pen color, size, fill color, save your work (not in image format but a simple txt file), load back from the txt file, undo etc.
